@@ -1,5 +1,8 @@
 
-![Library Component Count](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fportal.altiumlibrary.com%2Fapi%2Fdata%2FComponentCount%2FComponents) ![Built for Altium](https://img.shields.io/badge/platform-altium-yellow?style=for-the-badge) [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=website&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Faltiumlibrary.com)](https://altiumlibrary.com) [![Portal](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=portal&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fportal.altiumlibrary.com)](https://portal.altiumlibrary.com)
+![Library Component Count](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fportal.altiumlibrary.com%2Fapi%2Fdata%2FComponentCount%2FComponents) 
+![Built for Altium](https://img.shields.io/badge/platform-altium-yellow?style=for-the-badge) 
+[![Website Status](https://img.shields.io/website?style=for-the-badge&up_color=green&up_message=online&down_message=offline&url=https%3A%2F%2Faltiumlibrary.com)](https://altiumlibrary.com) 
+[![Portal Status](https://img.shields.io/website?style=for-the-badge&up_color=green&up_message=online&down_message=offline&url=https%3A%2F%2Fportal.altiumlibrary.com)](https://portal.altiumlibrary.com)
 
 # Celestial Altium Library
 The Celestial Altium Library is a massive, free, open source database library for Altium Designer created by [Altium Industry Expert Mark Harris](https://resources.altium.com/authors/mark-harris). The database is hosted on a dedicated cloud platform built for the library, to ensure you always have the latest components.
