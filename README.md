@@ -32,7 +32,7 @@ Altium Database libraries make you design your schematic with the part you are g
   
 Without the Celestial Altium Library, you might find yourself looking for passive components on supplier websites to find a low-cost option, and then searching for those parts in the Manufacturer Part Search panel in Altium. Once you find the part you want, you can assign the properties to the schematic symbol in your project. With the library, however, you can rapidly sort through thousands of components to narrow down the list of relevant parts and then place the cheapest in-stock option directly into your design - all with Altium. Components added with the library will generate an excellent bill of materials for your project with or without ActiveBOM.  
   
-Save time on the design, and significantly reduce errors by placing real-world parts directly from the library.
+Save time on the design, and significantly reduce errors by placing real-world parts directly from the library..
 
 # Why use the  Library?
 
