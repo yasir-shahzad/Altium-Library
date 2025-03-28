@@ -3,6 +3,8 @@
 [![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/Altium-Library/latest)](https://github.com/yasir-shahzad/Altium-Library/commits/master) 
 [![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/Altium-Library.svg)](https://github.com/yasir-shahzad/Altium-Library/issues) 
 [![Downloads](https://img.shields.io/github/downloads/yasir-shahzad/Altium-Library/total.svg?maxAge=3600)](https://github.com/yasir-shahzad/Altium-Library/releases/latest) 
+[![Discord](https://img.shields.io/discord/1349656889981407283?style=social&logo=discord&label=COMMUNITY)](https://discord.gg/aqafn5wj)
+[![Ko-fi](https://img.shields.io/badge/Support%20on%20Ko--fi-F16061?style=flat&logo=kofi&logoColor=white&labelColor=%23FF5E5B)](https://buymeacoffee.com/yasirshahzad)
 ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_Altium-Library)
 
 If you like **Altium-Library** - give it a star, or fork it and contribute!  
