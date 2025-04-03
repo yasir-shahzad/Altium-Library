@@ -121,16 +121,19 @@
 
 
 ### MOSFETs and Transistors
-- **C8545**  | 2N7002      | N-Channel MOSFET  | 60V  | 300mA  | SOT-23
-- **C26574** | AO3400A     | N-Channel MOSFET  | 30V  | 5.8A   | SOT-23
-- **C51974** | IRLZ34N     | N-Channel MOSFET  | 55V  | 30A    | SOT-23
-- **C47980** | SI2300      | N-Channel MOSFET  | 20V  | 2.2A   | SOT-23
-- **C2151**  | AO3401A     | P-Channel MOSFET  | -30V | -4.3A  | SOT-23
-- **C85236** | IRLML6344   | P-Channel MOSFET  | -20V | -5.2A  | SOT-23
-- **C47983** | SI2302      | P-Channel MOSFET  | -20V | -2.8A  | SOT-23
-- **C6186**  | MMBT3904    | NPN Transistor    | 40V  | 200mA  | SOT-23
-- **C33754** | BC847B      | NPN Transistor    | 45V  | 100mA  | SOT-23
-- **C8544**  | S8050       | NPN Transistor    | 25V  | 500mA  | SOT-23
-- **C8552**  | S8550       | PNP Transistor    | -25V | -500mA | SOT-23
-- **C33755** | BC857B      | PNP Transistor    | -45V | -100mA | SOT-23
-- **C20526** | MMBT3906    | PNP Transistor    | -40V | -200mA | SOT-23
+| Part Number | Type                     | Channel   | Voltage | Current | Package |
+|-------------|--------------------------|-----------|---------|---------|---------|
+| C8545       | 2N7002                   | N-Channel | 60V     | 300mA   | SOT-23  |
+| C26574      | AO3400A                  | N-Channel | 30V     | 5.8A    | SOT-23  |
+| C51974      | IRLZ34N                  | N-Channel | 55V     | 30A     | SOT-23  |
+| C47980      | SI2300                   | N-Channel | 20V     | 2.2A    | SOT-23  |
+| C2151       | AO3401A                  | P-Channel | -30V    | -4.3A   | SOT-23  |
+| C85236      | IRLML6344                | P-Channel | -20V    | -5.2A   | SOT-23  |
+| C47983      | SI2302                   | P-Channel | -20V    | -2.8A   | SOT-23  |
+| C6186       | MMBT3904                 | NPN       | 40V     | 200mA   | SOT-23  |
+| C33754      | BC847B                   | NPN       | 45V     | 100mA   | SOT-23  |
+| C8544       | S8050                    | NPN       | 25V     | 500mA   | SOT-23  |
+| C8552       | S8550                    | PNP       | -25V    | -500mA  | SOT-23  |
+| C33755      | BC857B                   | PNP       | -45V    | -100mA  | SOT-23  |
+| C20526      | MMBT3906                 | PNP       | -40V    | -200mA  | SOT-23  |
+
