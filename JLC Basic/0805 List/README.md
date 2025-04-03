@@ -43,17 +43,32 @@
 | C17514  | Resistor | 1MΩ ±1% | 125mW | 0805 |
 
 ### Capacitors
-| Part Number | Type     | Value        | Voltage | Package |
-|-------------|---------|--------------|---------|---------|
-| C1790   | Capacitor | 100pF ±5% | 50V C0G | 0805 |
-| C1798   | Capacitor | 20pF ±5% | 50V C0G | 0805 |
-| C1804   | Capacitor | 22pF ±5% | 50V C0G | 0805 |
-| C14857  | Capacitor | 47pF ±5% | 50V C0G | 0805 |
-| C107145 | Capacitor | 220pF ±10% | 50V X7R | 0805 |
-| C1743   | Capacitor | 470pF ±10% | 50V X7R | 0805 |
-| C1710   | Capacitor | 10nF ±10% | 50V X7R | 0805 |
-| C28260  | Capacitor | 2.2nF ±5% | 50V C0G | 0805 |
-| C1744   | Capacitor | 4.7nF ±10% | 50V X7R | 0805 |
+| Part Number | Component Type | Value            | Tolerance | Voltage | Dielectric | Package |
+|-------------|----------------|------------------|-----------|---------|------------|---------|
+| C1790       | Capacitor      | 100pF ±5%        | ±5%       | 50V     | C0G        | 0805    |
+| C1798       | Capacitor      | 20pF ±5%         | ±5%       | 50V     | C0G        | 0805    |
+| C1804       | Capacitor      | 22pF ±5%         | ±5%       | 50V     | C0G        | 0805    |
+| C14857      | Capacitor      | 47pF ±5%         | ±5%       | 50V     | C0G        | 0805    |
+| C107145     | Capacitor      | 220pF ±10%       | ±10%      | 50V     | X7R        | 0805    |
+| C1743       | Capacitor      | 470pF ±10%       | ±10%      | 50V     | X7R        | 0805    |
+| C1710       | Capacitor      | 10nF ±10%        | ±10%      | 50V     | X7R        | 0805    |
+| C28260      | Capacitor      | 2.2nF ±5%        | ±5%       | 50V     | C0G        | 0805    |
+| C1744       | Capacitor      | 4.7nF ±10%       | ±10%      | 50V     | X7R        | 0805    |
+| C1729       | Capacitor      | 22nF ±10%        | ±10%      | 50V     | X7R        | 0805    |
+| C1739       | Capacitor      | 33nF ±10%        | ±10%      | 50V     | X7R        | 0805    |
+| C53134      | Capacitor      | 47nF ±10%        | ±10%      | 50V     | X7R        | 0805    |
+| C49678      | Capacitor      | 100nF ±10%       | ±10%      | 50V     | X7R        | 0805    |
+| C28233      | Capacitor      | 100nF ±10%       | ±10%      | 100V    | X7R        | 0805    |
+| C5378       | Capacitor      | 220nF ±10%       | ±10%      | 50V     | X7R        | 0805    |
+| C13967      | Capacitor      | 470nF ±10%       | ±10%      | 50V     | X7R        | 0805    |
+| C28323      | Capacitor      | 1uF ±10%         | ±10%      | 50V     | X7R        | 0805    |
+| C377773     | Capacitor      | 2.2uF ±10%       | ±10%      | 50V     | X5R        | 0805    |
+| C1779       | Capacitor      | 4.7uF ±10%       | ±10%      | 25V     | X5R        | 0805    |
+| C45783      | Capacitor      | 22uF ±20%        | ±20%      | 25V     | X5R        | 0805    |
+| C15850      | Capacitor      | 10uF ±10%        | ±10%      | 25V     | X5R        | 0805    |
+| C440198     | Capacitor      | 10uF ±10%        | ±10%      | 50V     | X5R        | 0805    |
+| C16780      | Capacitor      | 47uF ±20%        | ±20%      | 6.3V    | X5R        | 0805    |
+
 
 ### Inductors & Ferrite Beads
 | Part Number | Type | Value | Package |
