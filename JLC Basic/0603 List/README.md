@@ -83,4 +83,49 @@
 ### Capacitors
 - **C1634**  | Multilayer Ceramic Capacitor | 10pF  | 50V, C0G   | 0603
 - **C38523** | Multilayer Ceramic Capacitor | 12pF  | 50V, C0G   | 0603
-- **C1644**  | Multilayer
+- **C1644**  | Multilayer Ceramic Capacitor | 15pF  | 50V, C0G   | 0603
+- **C1647**  | Multilayer Ceramic Capacitor | 18pF  | 50V, C0G   | 0603
+- **C1648**  | Multilayer Ceramic Capacitor | 20pF  | 50V, C0G   | 0603
+- **C1653**  | Multilayer Ceramic Capacitor | 22pF  | 50V, C0G   | 0603
+- **C1658**  | Multilayer Ceramic Capacitor | 30pF  | 50V, C0G   | 0603
+- **C1663**  | Multilayer Ceramic Capacitor | 33pF  | 50V, C0G   | 0603
+- **C1671**  | Multilayer Ceramic Capacitor | 47pF  | 50V, C0G   | 0603
+- **C14858** | Multilayer Ceramic Capacitor | 100pF | 50V, C0G   | 0603
+- **C1594**  | Multilayer Ceramic Capacitor | 150pF | 50V, X7R   | 0603
+- **C1603**  | Multilayer Ceramic Capacitor | 220pF | 50V, X7R   | 0603
+- **C1664**  | Multilayer Ceramic Capacitor | 330pF | 50V, C0G   | 0603
+- **C1620**  | Multilayer Ceramic Capacitor | 470pF | 50V, X7R   | 0603
+- **C1588**  | Multilayer Ceramic Capacitor | 1nF   | 50V, X7R   | 0603
+- **C1604**  | Multilayer Ceramic Capacitor | 2.2nF | 50V, X7R   | 0603
+- **C1613**  | Multilayer Ceramic Capacitor | 3.3nF | 50V, X7R   | 0603
+- **C53987** | Multilayer Ceramic Capacitor | 4.7nF | 50V, X7R   | 0603
+- **C1631**  | Multilayer Ceramic Capacitor | 6.8nF | 50V, X7R   | 0603
+- **C1322360** | Multilayer Ceramic Capacitor | 8.2nF | 50V, X7R   | 0603
+- **C57112** | Multilayer Ceramic Capacitor | 10nF  | 50V, X7R   | 0603
+- **C21122** | Multilayer Ceramic Capacitor | 22nF  | 50V, X7R   | 0603
+- **C21117** | Multilayer Ceramic Capacitor | 33nF  | 50V, X7R   | 0603
+- **C1622**  | Multilayer Ceramic Capacitor | 47nF  | 50V, X7R   | 0603
+- **C14663** | Multilayer Ceramic Capacitor | 100nF | 50V, X7R   | 0603
+- **C21120** | Multilayer Ceramic Capacitor | 220nF | 25V, X7R   | 0603
+- **C1623**  | Multilayer Ceramic Capacitor | 470nF | 25V, X7R   | 0603
+- **C15849** | Multilayer Ceramic Capacitor | 1uF   | 50V, X5R   | 0603
+- **C23630** | Multilayer Ceramic Capacitor | 2.2uF | 16V, X5R   | 0603
+- **C19666** | Multilayer Ceramic Capacitor | 4.7uF | 16V, X5R   | 0603
+- **C19702** | Multilayer Ceramic Capacitor | 10uF  | 10V, X5R   | 0603
+- **C96446** | Multilayer Ceramic Capacitor | 10uF  | 25V, X5R   | 0603
+- **C59461** | Multilayer Ceramic Capacitor | 22uF  | 6.3V, X5R  | 0603
+
+### MOSFETs and Transistors
+- **C8545**  | 2N7002      | N-Channel MOSFET  | 60V  | 300mA  | SOT-23
+- **C26574** | AO3400A     | N-Channel MOSFET  | 30V  | 5.8A   | SOT-23
+- **C51974** | IRLZ34N     | N-Channel MOSFET  | 55V  | 30A    | SOT-23
+- **C47980** | SI2300      | N-Channel MOSFET  | 20V  | 2.2A   | SOT-23
+- **C2151**  | AO3401A     | P-Channel MOSFET  | -30V | -4.3A  | SOT-23
+- **C85236** | IRLML6344   | P-Channel MOSFET  | -20V | -5.2A  | SOT-23
+- **C47983** | SI2302      | P-Channel MOSFET  | -20V | -2.8A  | SOT-23
+- **C6186**  | MMBT3904    | NPN Transistor    | 40V  | 200mA  | SOT-23
+- **C33754** | BC847B      | NPN Transistor    | 45V  | 100mA  | SOT-23
+- **C8544**  | S8050       | NPN Transistor    | 25V  | 500mA  | SOT-23
+- **C8552**  | S8550       | PNP Transistor    | -25V | -500mA | SOT-23
+- **C33755** | BC857B      | PNP Transistor    | -45V | -100mA | SOT-23
+- **C20526** | MMBT3906    | PNP Transistor    | -40V | -200mA | SOT-23
