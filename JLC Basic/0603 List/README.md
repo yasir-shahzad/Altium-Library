@@ -137,3 +137,8 @@
 | C33755      | BC857B                   | PNP       | -45V    | -100mA  | SOT-23  |
 | C20526      | MMBT3906                 | PNP       | -40V    | -200mA  | SOT-23  |
 
+
+### DIODEs 
+| Part Number | Type                     | Voltage | Current | Package |
+|-------------|--------------------------|---------|---------|---------|
+| C68978      | BAV70                    | 60V     | 200mA   | SOT-23  |
