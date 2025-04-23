@@ -127,8 +127,8 @@
 | C26574      | AO3400A                  | N-Channel | 30V     | 5.8A    | SOT-23  |
 | C51974      | IRLZ34N                  | N-Channel | 55V     | 30A     | SOT-23  |
 | C47980      | SI2300                   | N-Channel | 20V     | 2.2A    | SOT-23  |
+| C85236      | IRLML6344                | N-Channel | -20V    | 5.2A    | SOT-23  |
 | C2151       | AO3401A                  | P-Channel | -30V    | -4.3A   | SOT-23  |
-| C85236      | IRLML6344                | P-Channel | -20V    | -5.2A   | SOT-23  |
 | C47983      | SI2302                   | P-Channel | -20V    | -2.8A   | SOT-23  |
 | C6186       | MMBT3904                 | NPN       | 40V     | 200mA   | SOT-23  |
 | C33754      | BC847B                   | NPN       | 45V     | 100mA   | SOT-23  |
