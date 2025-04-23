@@ -138,7 +138,7 @@
 | C20526      | MMBT3906                 | PNP       | -40V    | -200mA  | SOT-23  |
 
 
-### DIODEs 
+### DIODEs
 | Part Number | Value      | Type                   | Voltage | Current | Package  |
 |-------------|-------------------------------------|---------|---------|--------- |
 | C68978      | BAV70                               | 60V     | 200mA   | SOT-23   |
