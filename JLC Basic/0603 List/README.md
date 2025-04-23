@@ -83,7 +83,7 @@
 
 
 ### Capacitors
-| Part Number | Component Type                     | Value   | Voltage | Dielectric | Package |
+| Part Number | Component Type                      | Value   | Voltage | Dielectric | Package |
 |-------------|-------------------------------------|---------|---------|------------|---------|
 | C1634       | Multilayer Ceramic Capacitor        | 10pF    | 50V     | C0G        | 0603    |
 | C38523      | Multilayer Ceramic Capacitor        | 12pF    | 50V     | C0G        | 0603    |
@@ -139,7 +139,13 @@
 
 
 ### DIODEs 
-| Part Number | Type                     | Voltage | Current | Package  |
-|-------------|--------------------------|---------|---------|--------- |
-| C68978      | BAV70                    | 60V     | 200mA   | SOT-23   |
-| C22452      | SS54                     | 40V     | 5A      | DO-214AC |
+| Part Number | Value      | Type                   | Voltage | Current | Package  |
+|-------------|-------------------------------------|---------|---------|--------- |
+| C68978      | BAV70                               | 60V     | 200mA   | SOT-23   |
+| C22452      | SS54                                | 40V     | 5A      | DO-214AC |
+| C2480       | SS14                                | 40V     | 1A      | DO-214AC |
+| C8678       | SS34                                | 40V     | 3A      | DO-214AC |
+| C14996      | SS210                               | 100V    | 5A      | DO-214AC |
+| C95872      | M7                                  | 100V    | 5A      | DO-214AC |
+| C14996      | SS210                               | 100V    | 5A      | DO-214AC |
+
