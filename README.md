@@ -125,7 +125,7 @@ Build your next project faster, create beautiful schematics and stunning 3D PCBs
 
 Love electronics? Need help with the library? Join us on Discord!.
 
-[![Discord](https://img.shields.io/discord/561626546083856405?logo=discord&style=for-the-badge)](https://discord.gg/MEQ5Xe5)
+[![Discord](https://img.shields.io/discord/561626546083856405?logo=discord&style=for-the-badge)](https://discord.gg/aqafn5wj)
 
 # Database Access
 You can register for free access on the [Altium Library Portal](http://portal.altiumlibrary.com/Identity/Account/Login). 
