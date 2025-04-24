@@ -139,15 +139,16 @@
 
 
 ### DIODEs
-| Part Number | Value      | Type                   | Voltage | Current | Package  |
-|-------------|------------|------------------- ----|---------|---------|--------- |
-| C68978      | BAV70      |                        | 60V     | 200mA   | SOT-23   |
-| C22452      | SS54       |                        | 40V     | 5A      | DO-214AC |
-| C2480       | SS14       |                        | 40V     | 1A      | DO-214AC |
-| C8678       | SS34       |                        | 40V     | 3A      | DO-214AC |
-| C14996      | SS210      |                        | 100V    | 5A      | DO-214AC |
-| C95872      | M7         |                        | 100V    | 5A      | DO-214AC |
-| C412437     | US1M       |                        | 100V    | 5A      | DO-214AC |
+
+| Part Number | Value  | Type             | Voltage | Current | Package   |
+|-------------|--------|------------------|---------|---------|-----------|
+| C68978      | BAV70  | Dual Switching   | 60V     | 200mA   | SOT-23    |
+| C22452      | SS54   | Schottky         | 40V     | 5A      | DO-214AC  |
+| C2480       | SS14   | Schottky         | 40V     | 1A      | DO-214AC  |
+| C8678       | SS34   | Schottky         | 40V     | 3A      | DO-214AC  |
+| C14996      | SS210  | Schottky         | 100V    | 5A      | DO-214AC  |
+| C95872      | M7     | General Purpose  | 100V    | 1A      | DO-214AC  |
+| C412437     | US1M   | Fast Recovery     | 100V    | 1A      | DO-214AC  |
 
 
 
