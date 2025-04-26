@@ -40,17 +40,11 @@
 
 
 ### Amplifiers/Comparators
-| Part Number     | Value    | Type               | Voltage | Current   | Package  |
-|-----------------|----------|--------------------|---------|-----------|----------|
-| C6961           | TL072CDT | FET Input Amplifier| 3mV     | 20pA      | SOIC-8   |
-| C7377           | MCP6002T-I/SN | Operational Amplifier | 1pA     | 0.6V/us   | SOIC-8   |
-| C7426           | NE5532DR | Operational Amplifier | 200nA   | 9V/us     | SOIC-8   |
-| C7433           | OP07CDR  | Precision Op Amp   | 1.8nA   | 600kHz    | SOIC-8   |
-| C7950           | LM358DR2G| Operational Amplifier | 45nA    | 1MHz      | SOIC-8   |
-| C7955           | LM393DR2G| Comparators         | 250nA   | 5mV       | SOIC-8   |
-| C7972           | LMV321IDBVR | Operational Amplifier | 15nA    | 1V/us     | SOT-23-5 |
-| C18229          | LM2904DR2G| Operational Amplifier | 45nA    | 1MHz      | SOIC-8   |
-| C71035          | LM324DT  | Operational Amplifier | 20nA    | 1.3MHz    | SOIC-14  |
-
-
-
+| Part Number     | Value    | Type                  | Voltage | Current    | Package  |
+|-----------------|----------|-----------------------|---------|------------|----------|
+| C6961           | TL072CDT | FET Input Amplifier   | 3mV     | 20pA       | SOIC-8   |
+| C7426           | NE5532DR | Operational Amplifier | 200nA   | 9V/us      | SOIC-8   |
+| C7433           | OP07CDR  | Precision Op Amp      | 1.8nA   | 600kHz     | SOIC-8   |
+| C7950           | LM358DR2G| Operational Amplifier | 45nA    | 1MHz       | SOIC-8   |
+| C7955           | LM393DR2G| Comparators            | 250nA   | 5mV        | SOIC-8   |
+| C71035          | LM324DT  | Operational Amplifier | 20nA    | 1.3MHz     | SOIC-14  |
