@@ -48,3 +48,13 @@
 | C7950           | LM358DR2G| Operational Amplifier | 45nA    | 1MHz       | SOIC-8   |
 | C7955           | LM393DR2G| Comparators            | 250nA   | 5mV        | SOIC-8   |
 | C71035          | LM324DT  | Operational Amplifier | 20nA    | 1.3MHz     | SOIC-14  |
+
+### Crystal Oscillators
+| Part Number      | Value   | Type                  | Voltage | Package           |
+|------------------|---------|-----------------------|---------|-------------------|
+| C9002            | X322512MSB4SI | Surface Mount Crystal | 12MHz   | SMD3225-4P       |
+| C9006            | X322525MOB4SI | Surface Mount Crystal | 25MHz   | SMD3225-4P       |
+| C12674           | X49SM8MSD2SC   | Surface Mount Crystal | 8MHz    | HC-49S-SMD       |
+| C13738           | X322516MLB4SI  | Surface Mount Crystal | 16MHz   | SMD3225-4P       |
+| C32346           | Q13FC13500004  | Surface Mount Crystal | 32.768kHz | SMD3215-2P     |
+| C115962          | X50328MSB2GI   | Surface Mount Crystal | 8MHz    | SMD5032          |
