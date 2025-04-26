@@ -49,6 +49,21 @@
 | C7955           | LM393DR2G| Comparators            | 250nA   | 5mV        | SOIC-8   |
 | C71035          | LM324DT  | Operational Amplifier | 20nA    | 1.3MHz     | SOIC-14  |
 
+### Interfaces
+| Part Number     | Value            | Type                    | Speed    | Package   |
+|-----------------|------------------|-------------------------|----------|-----------|
+| C6855           | SP485EEN-L/TR    | Transceiver             | 10Mbps   | SOIC-8    |
+| C8963           | SP3485EN-L/TR    | Transceiver             | 10Mbps   | SOIC-8    |
+| C13482          | SP3232EEY-L/TR   | Transceiver             | 235Kbps  | TSSOP-16 |
+
+
+### Logic
+| Part Number     | Value            | Type                    | Voltage Range | Package   |
+|-----------------|------------------|-------------------------|---------------|-----------|
+| C5605           | 74HC14D,653       | Schmitt Trigger          | 2V ~ 6V       | SOIC-14   |
+| C5947           | 74HC595D,118      | Shift Register           | 2V ~ 6V       | SOIC-16   |
+
+
 ### Crystal Oscillators
 | Part Number      | Value   | Type                  | Voltage | Package           |
 |------------------|---------|-----------------------|---------|-------------------|
