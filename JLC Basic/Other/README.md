@@ -53,6 +53,17 @@
 | 78L05G-AB3-R          | Fixed            | LDO Voltage Regulator                 | 5.0V           | SOT-89-3    | 
 
 
+### Crystal Oscillators
+| Part Number      | Value   | Type                  | Voltage | Package           |
+|------------------|---------|-----------------------|---------|-------------------|
+| C9002            | X322512MSB4SI | Surface Mount Crystal  | 12MHz   | SMD3225-4P       |
+| C9006            | X322525MOB4SI | Surface Mount Crystal  | 25MHz   | SMD3225-4P       |
+| C12674           | X49SM8MSD2SC   | Surface Mount Crystal | 8MHz    | HC-49S-SMD       |
+| C13738           | X322516MLB4SI  | Surface Mount Crystal | 16MHz   | SMD3225-4P       |
+| C32346           | Q13FC13500004  | Surface Mount Crystal | 32.768kHz | SMD3215-2P     |
+| C115962          | X50328MSB2GI   | Surface Mount Crystal | 8MHz    | SMD5032          |
+
+
 ### Switches
 | Part Number         | Type   | Size      | Lifespan  | Switch Style   | Voltage   | Package |
 |---------------------|--------|-----------|-----------|----------------|-----------|---------|
@@ -89,13 +100,3 @@
 | C97521          | W25Q128JVSIQ    | NOR Flash           | 128Mbit  | SOIC-8-208mil|
 
 
-
-### Crystal Oscillators
-| Part Number      | Value   | Type                  | Voltage | Package           |
-|------------------|---------|-----------------------|---------|-------------------|
-| C9002            | X322512MSB4SI | Surface Mount Crystal  | 12MHz   | SMD3225-4P       |
-| C9006            | X322525MOB4SI | Surface Mount Crystal  | 25MHz   | SMD3225-4P       |
-| C12674           | X49SM8MSD2SC   | Surface Mount Crystal | 8MHz    | HC-49S-SMD       |
-| C13738           | X322516MLB4SI  | Surface Mount Crystal | 16MHz   | SMD3225-4P       |
-| C32346           | Q13FC13500004  | Surface Mount Crystal | 32.768kHz | SMD3215-2P     |
-| C115962          | X50328MSB2GI   | Surface Mount Crystal | 8MHz    | SMD5032          |
