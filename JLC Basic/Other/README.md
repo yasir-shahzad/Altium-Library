@@ -17,7 +17,6 @@
 
 
 ### DIODEs
-
 | Part Number | Value   | Type             | Voltage | Current | Package   |
 |-------------|---------|------------------|---------|---------|-----------|
 | C68978      | BAV70   | Dual Switching   | 60V     | 200mA   | SOT-23    |
@@ -38,7 +37,7 @@
 | C85898      | 1N4148W | Switching Diodes | 75V     | 150mA   | SOD-123   |
 | C191023     | 1N5819WS| Schottky Diodes  | 40V     | 1A      | SOD-323   |
 
-### Power Managmennt
+### Power Managmennt(PMIC)
 | Part Number           | Value            | Type                                  | Output Voltage | Package     | Manufacturer                     | Price    |
 |-----------------------|------------------|---------------------------------------|----------------|-------------|-----------------------------------|----------|
 | CJ431                 | Adjustable       | Voltage Reference                     | 2.5V~36V       | SOT-23      | Jiangsu Changjing Electronics     | $0.04    |
@@ -51,6 +50,11 @@
 | XL1509-5.0E1          | Step-down        | DC-DC Converter                       | 5.0V           | SOIC-8      | Xlsemi                           | $0.24    |
 | 78L05G-AB3-R          | Fixed            | LDO Voltage Regulator                 | 5.0V           | SOT-89-3    | UTC (Unisonic Tech)              | $0.04    |
 
+
+### Switches
+| Part Number         | Type   | Actuation Force | Size      | Lifespan  | Switch Style   | Voltage   | Actuation Method | Package |
+|---------------------|--------|-----------------|-----------|-----------|----------------|-----------|------------------|---------|
+| TS-1187A-B-A-B      | SPST   | 160gf           | 5.1mm     | 100,000   | Round Button   | 12V       | Standing Paste   | SMD     |
 
 
 ### Amplifiers/Comparators
