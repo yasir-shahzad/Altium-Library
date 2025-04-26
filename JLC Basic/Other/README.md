@@ -63,6 +63,12 @@
 | C5605           | 74HC14D,653       | Schmitt Trigger          | 2V ~ 6V       | SOIC-14   |
 | C5947           | 74HC595D,118      | Shift Register           | 2V ~ 6V       | SOIC-16   |
 
+### Memory
+| Part Number     | Value           | Type                | Capacity | Package     |
+|-----------------|-----------------|---------------------|----------|-------------|
+| C97521          | W25Q128JVSIQ     | NOR Flash           | 128Mbit  | SOIC-8-208mil|
+
+
 
 ### Crystal Oscillators
 | Part Number      | Value   | Type                  | Voltage | Package           |
