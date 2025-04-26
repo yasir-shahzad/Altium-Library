@@ -134,3 +134,4 @@
 | C2286       | LED  | Red            | 0603    |
 
 
+https://jlcpcb.com/parts/basic_parts
