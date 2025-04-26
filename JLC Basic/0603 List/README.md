@@ -120,5 +120,22 @@
 | C59461      | Multilayer Ceramic Capacitor        | 22uF    | 6.3V    | X5R        | 0603    |
 
 
+### Ferrite Beads
+| Part Number | Type | Value          | Package |
+|-------------|------|----------------|---------|
+| C1002      | Ferrite Beads   | 450mΩ ±25% 600Ω@100MHz       | 0603    |
+
+
+### Inductors
+| Part Number | Type | Value          | Package |
+|-------------|------|----------------|---------|
+| C1002      | Inductors (SMD)   | 3mA 10uH ±10% 1.85Ω       | 0603    |
+
+
+### LEDs
+| Part Number | Type | Color          | Package |
+|-------------|------|----------------|---------|
+| C2290       | LED  | White         | 0603    |
+| C2286       | LED  | Red            | 0603    |
 
 
