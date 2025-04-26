@@ -70,6 +70,14 @@
 | C16780      | Capacitor      | 47uF ±20%        | ±20%      | 6.3V    | X5R        | 0805    |
 
 
+### Inductors & Ferrite Beads
+| Part Number | Type | Value | Package |
+|-------------|------|--------|---------|
+| C1015   | Ferrite Bead | 100Ω @ 100MHz | 0805 |
+| C1017   | Ferrite Bead | 600Ω @ 100MHz | 0805 |
+| C1046   | Inductor | 10uH ±10% 1.15Ω | 0805 |
+
+
 ### LEDs
 | Part Number | Type | Color | Package |
 |-------------|------|-------|---------|
