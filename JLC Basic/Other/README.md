@@ -40,23 +40,23 @@
 | C191023     | 1N5819WS| Schottky Diodes  | 40V     | 1A      | SOD-323   |
 
 ### Power Managmennt(PMIC)
-| Part Number           | Value            | Type                                  | Output Voltage | Package     | Manufacturer                     | Price    |
-|-----------------------|------------------|---------------------------------------|----------------|-------------|-----------------------------------|----------|
-| CJ431                 | Adjustable       | Voltage Reference                     | 2.5V~36V       | SOT-23      | Jiangsu Changjing Electronics     | $0.04    |
-| XC6206P332MR-G        | Fixed            | Low Drop-Out (LDO) Voltage Regulator  | 3.3V           | SOT-23-3L   | Torex Semicon                    | $0.11    |
-| AMS1117-3.3           | Fixed            | LDO Voltage Regulator                 | 3.3V           | SOT-223     | Advanced Monolithic Systems      | $0.22    |
-| AMS1117-5.0           | Fixed            | LDO Voltage Regulator                 | 5.0V           | SOT-223     | Advanced Monolithic Systems      | $0.26    |
-| TPS5430DDAR           | Adjustable       | Step-down DC-DC Converter             | 1.221V~32.04V  | SOIC-8-EP   | Texas Instruments                | $0.41    |
-| HT7533-1              | Fixed            | LDO Voltage Regulator                 | 3.3V           | SOT-89-3    | Holtek Semicon                   | $0.12    |
-| L78M05ABDT-TR         | Fixed            | LDO Voltage Regulator                 | 5.0V           | TO-252-2(DPAK) | Stmicroelectronics            | $0.12    |
-| XL1509-5.0E1          | Step-down        | DC-DC Converter                       | 5.0V           | SOIC-8      | Xlsemi                           | $0.24    |
-| 78L05G-AB3-R          | Fixed            | LDO Voltage Regulator                 | 5.0V           | SOT-89-3    | UTC (Unisonic Tech)              | $0.04    |
+| Part Number           | Value            | Type                                  | Output Voltage | Package     |
+|-----------------------|------------------|---------------------------------------|----------------|-------------|
+| CJ431                 | Adjustable       | Voltage Reference                     | 2.5V~36V       | SOT-23      |
+| XC6206P332MR-G        | Fixed            | Low Drop-Out (LDO) Voltage Regulator  | 3.3V           | SOT-23-3L   |
+| AMS1117-3.3           | Fixed            | LDO Voltage Regulator                 | 3.3V           | SOT-223     |
+| AMS1117-5.0           | Fixed            | LDO Voltage Regulator                 | 5.0V           | SOT-223     |
+| TPS5430DDAR           | Adjustable       | Step-down DC-DC Converter             | 1.221V~32.04V  | SOIC-8-EP   |
+| HT7533-1              | Fixed            | LDO Voltage Regulator                 | 3.3V           | SOT-89-3    |
+| L78M05ABDT-TR         | Fixed            | LDO Voltage Regulator                 | 5.0V           | TO-252-2(DPAK) |
+| XL1509-5.0E1          | Step-down        | DC-DC Converter                       | 5.0V           | SOIC-8      |
+| 78L05G-AB3-R          | Fixed            | LDO Voltage Regulator                 | 5.0V           | SOT-89-3    | 
 
 
 ### Switches
-| Part Number         | Type   | Actuation Force | Size      | Lifespan  | Switch Style   | Voltage   | Actuation Method | Package |
-|---------------------|--------|-----------------|-----------|-----------|----------------|-----------|------------------|---------|
-| TS-1187A-B-A-B      | SPST   | 160gf           | 5.1mm     | 100,000   | Round Button   | 12V       | Standing Paste   | SMD     |
+| Part Number         | Type   | Size      | Lifespan  | Switch Style   | Voltage   | Package |
+|---------------------|--------|-----------|-----------|----------------|-----------|---------|
+| TS-1187A-B-A-B      | SPST   | 5.1mm     | 100,000   | Round Button   | 12V       | SMD     |
 
 
 ### Amplifiers/Comparators
@@ -66,7 +66,7 @@
 | C7426           | NE5532DR | Operational Amplifier | 200nA   | 9V/us      | SOIC-8   |
 | C7433           | OP07CDR  | Precision Op Amp      | 1.8nA   | 600kHz     | SOIC-8   |
 | C7950           | LM358DR2G| Operational Amplifier | 45nA    | 1MHz       | SOIC-8   |
-| C7955           | LM393DR2G| Comparators            | 250nA   | 5mV        | SOIC-8   |
+| C7955           | LM393DR2G| Comparators           | 250nA   | 5mV        | SOIC-8   |
 | C71035          | LM324DT  | Operational Amplifier | 20nA    | 1.3MHz     | SOIC-14  |
 
 ### Interfaces
@@ -78,23 +78,23 @@
 
 
 ### Logic
-| Part Number     | Value            | Type                    | Voltage Range | Package   |
-|-----------------|------------------|-------------------------|---------------|-----------|
-| C5605           | 74HC14D,653       | Schmitt Trigger          | 2V ~ 6V       | SOIC-14   |
-| C5947           | 74HC595D,118      | Shift Register           | 2V ~ 6V       | SOIC-16   |
+| Part Number     | Value            | Type                     | Voltage Range | Package   |
+|-----------------|------------------|--------------------------|---------------|-----------|
+| C5605           | 74HC14D,653      | Schmitt Trigger          | 2V ~ 6V       | SOIC-14   |
+| C5947           | 74HC595D,118     | Shift Register           | 2V ~ 6V       | SOIC-16   |
 
 ### Memory
 | Part Number     | Value           | Type                | Capacity | Package     |
 |-----------------|-----------------|---------------------|----------|-------------|
-| C97521          | W25Q128JVSIQ     | NOR Flash           | 128Mbit  | SOIC-8-208mil|
+| C97521          | W25Q128JVSIQ    | NOR Flash           | 128Mbit  | SOIC-8-208mil|
 
 
 
 ### Crystal Oscillators
 | Part Number      | Value   | Type                  | Voltage | Package           |
 |------------------|---------|-----------------------|---------|-------------------|
-| C9002            | X322512MSB4SI | Surface Mount Crystal | 12MHz   | SMD3225-4P       |
-| C9006            | X322525MOB4SI | Surface Mount Crystal | 25MHz   | SMD3225-4P       |
+| C9002            | X322512MSB4SI | Surface Mount Crystal  | 12MHz   | SMD3225-4P       |
+| C9006            | X322525MOB4SI | Surface Mount Crystal  | 25MHz   | SMD3225-4P       |
 | C12674           | X49SM8MSD2SC   | Surface Mount Crystal | 8MHz    | HC-49S-SMD       |
 | C13738           | X322516MLB4SI  | Surface Mount Crystal | 16MHz   | SMD3225-4P       |
 | C32346           | Q13FC13500004  | Surface Mount Crystal | 32.768kHz | SMD3215-2P     |
