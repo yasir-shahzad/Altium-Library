@@ -38,6 +38,20 @@
 | C85898      | 1N4148W | Switching Diodes | 75V     | 150mA   | SOD-123   |
 | C191023     | 1N5819WS| Schottky Diodes  | 40V     | 1A      | SOD-323   |
 
+### Power Managmennt
+| Part Number           | Value            | Type                                  | Output Voltage | Package     | Manufacturer                     | Price    |
+|-----------------------|------------------|---------------------------------------|----------------|-------------|-----------------------------------|----------|
+| CJ431                 | Adjustable       | Voltage Reference                     | 2.5V~36V       | SOT-23      | Jiangsu Changjing Electronics     | $0.04    |
+| XC6206P332MR-G        | Fixed            | Low Drop-Out (LDO) Voltage Regulator  | 3.3V           | SOT-23-3L   | Torex Semicon                    | $0.11    |
+| AMS1117-3.3           | Fixed            | LDO Voltage Regulator                 | 3.3V           | SOT-223     | Advanced Monolithic Systems      | $0.22    |
+| AMS1117-5.0           | Fixed            | LDO Voltage Regulator                 | 5.0V           | SOT-223     | Advanced Monolithic Systems      | $0.26    |
+| TPS5430DDAR           | Adjustable       | Step-down DC-DC Converter             | 1.221V~32.04V  | SOIC-8-EP   | Texas Instruments                | $0.41    |
+| HT7533-1              | Fixed            | LDO Voltage Regulator                 | 3.3V           | SOT-89-3    | Holtek Semicon                   | $0.12    |
+| L78M05ABDT-TR         | Fixed            | LDO Voltage Regulator                 | 5.0V           | TO-252-2(DPAK) | Stmicroelectronics            | $0.12    |
+| XL1509-5.0E1          | Step-down        | DC-DC Converter                       | 5.0V           | SOIC-8      | Xlsemi                           | $0.24    |
+| 78L05G-AB3-R          | Fixed            | LDO Voltage Regulator                 | 5.0V           | SOT-89-3    | UTC (Unisonic Tech)              | $0.04    |
+
+
 
 ### Amplifiers/Comparators
 | Part Number     | Value    | Type                  | Voltage | Current    | Package  |
