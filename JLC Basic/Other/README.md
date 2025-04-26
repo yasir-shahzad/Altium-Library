@@ -29,13 +29,5 @@
 | C412437     | US1M   | Fast Recovery     | 100V    | 1A      | DO-214AC  |
 
 
-### Inductors & Ferrite Beads
-| Part Number | Type | Value | Package |
-|-------------|------|--------|---------|
-| C1015   | Ferrite Bead | 100Ω @ 100MHz | 0805 |
-| C1017   | Ferrite Bead | 600Ω @ 100MHz | 0805 |
-| C1046   | Inductor | 10uH ±10% 1.15Ω | 0805 |
-
-
 
 
