@@ -1,5 +1,5 @@
 ### Transistors and MOSFETs
-| Part Number | Type      | Channel   | Voltage | Current | Package |
+| LCSC Part#   | Type      | Channel   | Voltage | Current | Package |
 |-------------|-----------|-----------|---------|---------|---------|
 | C2145       | MMBT5551  | NPN       | 160V    | 600mA   | SOT-23  |
 | C2146       | S8050 J3Y | NPN       | 25V     | 500mA   | SOT-23  |
@@ -19,7 +19,7 @@
 
 
 ### DIODEs
-| Part Number | Value   | Type             | Voltage | Current | Package   |
+| LCSC Part#   | Value   | Type             | Voltage | Current | Package   |
 |-------------|---------|------------------|---------|---------|-----------|
 | C68978      | BAV70   | Dual Switching   | 60V     | 200mA   | SOT-23    |
 | C22452      | SS54    | Schottky         | 40V     | 5A      | DO-214AC  |
@@ -40,21 +40,21 @@
 | C191023     | 1N5819WS| Schottky Diodes  | 40V     | 1A      | SOD-323   |
 
 ### Power Managmennt(PMIC)
-| Part Number           | Value            | Type                                  | Output Voltage | Package     |
-|-----------------------|------------------|---------------------------------------|----------------|-------------|
-| CJ431                 | Adjustable       | Voltage Reference                     | 2.5V~36V       | SOT-23      |
-| XC6206P332MR-G        | Fixed            | Low Drop-Out (LDO) Voltage Regulator  | 3.3V           | SOT-23-3L   |
-| AMS1117-3.3           | Fixed            | LDO Voltage Regulator                 | 3.3V           | SOT-223     |
-| AMS1117-5.0           | Fixed            | LDO Voltage Regulator                 | 5.0V           | SOT-223     |
-| TPS5430DDAR           | Adjustable       | Step-down DC-DC Converter             | 1.221V~32.04V  | SOIC-8-EP   |
-| HT7533-1              | Fixed            | LDO Voltage Regulator                 | 3.3V           | SOT-89-3    |
-| L78M05ABDT-TR         | Fixed            | LDO Voltage Regulator                 | 5.0V           | TO-252-2(DPAK) |
-| XL1509-5.0E1          | Step-down        | DC-DC Converter                       | 5.0V           | SOIC-8      |
-| 78L05G-AB3-R          | Fixed            | LDO Voltage Regulator                 | 5.0V           | SOT-89-3    | 
+| LCSC Part#  | Value             | Tyep            | Description                                  | Output Voltage | Package     |
+| |---------    |-----------------------|------------------|---------------------------------------|----------------|-------------|
+|C3113  | CJ431                 | Adjustable       | Voltage Reference                     | 2.5V~36V       | SOT-23      |
+| C5446 |XC6206P332MR-G        | Fixed            | Low Drop-Out (LDO) Voltage Regulator  | 3.3V           | SOT-23-3L   |
+|C6186 | AMS1117-3.3           | Fixed            | LDO Voltage Regulator                 | 3.3V           | SOT-223     |
+|C6187 | AMS1117-5.0           | Fixed            | LDO Voltage Regulator                 | 5.0V           | SOT-223     |
+| C9864 | TPS5430DDAR           | Adjustable       | Step-down DC-DC Converter             | 1.221V~32.04V  | SOIC-8-EP   |
+| C14289 | HT7533-1              | Fixed            | LDO Voltage Regulator                 | 3.3V           | SOT-89-3    |
+| C58069 | L78M05ABDT-TR         | Fixed            | LDO Voltage Regulator                 | 5.0V           | TO-252-2(DPAK) |
+|C61063 | XL1509-5.0E1          | Step-down        | DC-DC Converter                       | 5.0V           | SOIC-8      |
+| C71136 | 78L05G-AB3-R          | Fixed            | LDO Voltage Regulator                 | 5.0V           | SOT-89-3    | 
 
 
 ### Crystal Oscillators
-| Part Number      | Value   | Type                  | Voltage | Package           |
+| LCSC Part#        | Value   | Type                  | Voltage | Package           |
 |------------------|---------|-----------------------|---------|-------------------|
 | C9002            | X322512MSB4SI | Surface Mount Crystal  | 12MHz   | SMD3225-4P       |
 | C9006            | X322525MOB4SI | Surface Mount Crystal  | 25MHz   | SMD3225-4P       |
@@ -65,13 +65,13 @@
 
 
 ### Switches
-| Part Number         | Type   | Size      | Lifespan  | Switch Style   | Voltage   | Package |
-|---------------------|--------|-----------|-----------|----------------|-----------|---------|
-| TS-1187A-B-A-B      | SPST   | 5.1mm     | 100,000   | Round Button   | 12V       | SMD     |
+| LCSC Part# | Part Number         | Type   | Size      | Lifespan  | Switch Style   | Voltage   | Package |
+|------------|---------------------|--------|-----------|-----------|----------------|-----------|---------|
+| C318884    | TS-1187A-B-A-B      | SPST   | 5.1mm     | 100,000   | Round Button   | 12V       | SMD     |
 
 
 ### Amplifiers/Comparators
-| Part Number     | Value    | Type                  | Voltage | Current    | Package  |
+| LCSC Part#       | Value    | Type                  | Voltage | Current    | Package  |
 |-----------------|----------|-----------------------|---------|------------|----------|
 | C6961           | TL072CDT | FET Input Amplifier   | 3mV     | 20pA       | SOIC-8   |
 | C7426           | NE5532DR | Operational Amplifier | 200nA   | 9V/us      | SOIC-8   |
@@ -81,7 +81,7 @@
 | C71035          | LM324DT  | Operational Amplifier | 20nA    | 1.3MHz     | SOIC-14  |
 
 ### Interfaces
-| Part Number     | Value            | Type                    | Speed    | Package   |
+| LCSC Part#       | Value            | Type                    | Speed    | Package   |
 |-----------------|------------------|-------------------------|----------|-----------|
 | C6855           | SP485EEN-L/TR    | Transceiver             | 10Mbps   | SOIC-8    |
 | C8963           | SP3485EN-L/TR    | Transceiver             | 10Mbps   | SOIC-8    |
@@ -89,13 +89,13 @@
 
 
 ### Logic
-| Part Number     | Value            | Type                     | Voltage Range | Package   |
+| LCSC Part#       | Value            | Type                     | Voltage Range | Package   |
 |-----------------|------------------|--------------------------|---------------|-----------|
 | C5605           | 74HC14D,653      | Schmitt Trigger          | 2V ~ 6V       | SOIC-14   |
 | C5947           | 74HC595D,118     | Shift Register           | 2V ~ 6V       | SOIC-16   |
 
 ### Memory
-| Part Number     | Value           | Type                | Capacity | Package     |
+| LCSC Part#       | Value           | Type                | Capacity | Package     |
 |-----------------|-----------------|---------------------|----------|-------------|
 | C97521          | W25Q128JVSIQ    | NOR Flash           | 128Mbit  | SOIC-8-208mil|
 
