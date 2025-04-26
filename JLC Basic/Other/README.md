@@ -41,16 +41,16 @@
 
 ### Power Managmennt(PMIC)
 | LCSC Part#  | Value             | Tyep            | Description                                  | Output Voltage | Package     |
-| |---------    |-----------------------|------------------|---------------------------------------|----------------|-------------|
-|C3113  | CJ431                 | Adjustable       | Voltage Reference                     | 2.5V~36V       | SOT-23      |
-| C5446 |XC6206P332MR-G        | Fixed            | Low Drop-Out (LDO) Voltage Regulator  | 3.3V           | SOT-23-3L   |
-|C6186 | AMS1117-3.3           | Fixed            | LDO Voltage Regulator                 | 3.3V           | SOT-223     |
-|C6187 | AMS1117-5.0           | Fixed            | LDO Voltage Regulator                 | 5.0V           | SOT-223     |
-| C9864 | TPS5430DDAR           | Adjustable       | Step-down DC-DC Converter             | 1.221V~32.04V  | SOIC-8-EP   |
-| C14289 | HT7533-1              | Fixed            | LDO Voltage Regulator                 | 3.3V           | SOT-89-3    |
-| C58069 | L78M05ABDT-TR         | Fixed            | LDO Voltage Regulator                 | 5.0V           | TO-252-2(DPAK) |
-|C61063 | XL1509-5.0E1          | Step-down        | DC-DC Converter                       | 5.0V           | SOIC-8      |
-| C71136 | 78L05G-AB3-R          | Fixed            | LDO Voltage Regulator                 | 5.0V           | SOT-89-3    | 
+|-------------|-------------------|-----------------|----------------------------------------------|----------------|-------------|
+|C3113        | CJ431             | Adjustable      | Voltage Reference                            | 2.5V~36V       | SOT-23      |
+| C5446       |XC6206P332MR-G     | Fixed           | Low Drop-Out (LDO) Voltage Regulator         | 3.3V           | SOT-23-3L   |
+|C6186        | AMS1117-3.3       | Fixed           | LDO Voltage Regulator                        | 3.3V           | SOT-223     |
+|C6187        | AMS1117-5.0       | Fixed           | LDO Voltage Regulator                        | 5.0V           | SOT-223     |
+| C9864       | TPS5430DDAR       | Adjustable      | Step-down DC-DC Converter                    | 1.221V~32.04V  | SOIC-8-EP   |
+| C14289      | HT7533-1          | Fixed           | LDO Voltage Regulator                        | 3.3V           | SOT-89-3    |
+| C58069      | L78M05ABDT-TR     | Fixed           | LDO Voltage Regulator                        | 5.0V           | TO-252-2(DPAK) |
+|C61063       | XL1509-5.0E1      | Step-down       | DC-DC Converter                              | 5.0V           | SOIC-8      |
+| C71136      | 78L05G-AB3-R      | Fixed           | LDO Voltage Regulator                        | 5.0V           | SOT-89-3    | 
 
 
 ### Crystal Oscillators
