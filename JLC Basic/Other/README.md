@@ -1,21 +1,31 @@
 ### Transistors and MOSFETs
-| LCSC Part#  | Type                 | Channel   | Voltage | Current | Package |
-|-------------|----------------------|-----------|---------|---------|---------|
-| C2145       | MMBT5551             | NPN       | 160V    | 600mA   | SOT-23  |
-| C2146       | S8050 J3Y            | NPN       | 25V     | 500mA   | SOT-23  |
-| C2150       | SS8050               | NPN       | 25V     | 1.5A    | SOT-23  |
-| C6749       | S9013 J3             | NPN       | 25V     | 500mA   | SOT-23  |
-| C7512       | ULN2003ADR           | Darlington| 50V     | 500mA   | SOIC-16 |
-| C8326       | MMBT5401             | PNP       | 150V    | 600mA   | SOT-23  |
-| C8512       | MMBT2222A            | NPN       | 40V     | 600mA   | SOT-23  |
-| C8542       | SS8550 Y2            | PNP       | 25V     | 1.5A    | SOT-23  |
-| C8543       | S9012 2T1            | PNP       | 25V     | 500mA   | SOT-23  |
-| C8545       | 2N7002               | N-Channel | 60V     | 300mA   | SOT-23  |
-| C9634       | D882                 | NPN       | 30V     | 3A      | SOT-89-3|
-| C10487      | SI2301CDS-T1-GE3     | P-Channel | 20V     | 3.1A    | SOT-23  |
-| C15127      | AO3401A              | P-Channel | 30V     | 4A      | SOT-23  |
-| C20526      | MMBT3904             | NPN       | 40V     | 200mA   | SOT-23  |
-| C20917      | AO3400A              | N-Channel | 30V     | 5.7A    | SOT-23  |
+
+| LCSC Part#  | Value                | Type        | Voltage | Current | Package |
+|-------------|----------------------|-------------|---------|---------|---------|
+| **NPN**     |                      |             |         |         |         |
+| C2145       | MMBT5551              | NPN         | 160V    | 600mA   | SOT-23  |
+| C2146       | S8050 J3Y             | NPN         | 25V     | 500mA   | SOT-23  |
+| C2150       | SS8050                | NPN         | 25V     | 1.5A    | SOT-23  |
+| C6749       | S9013 J3              | NPN         | 25V     | 500mA   | SOT-23  |
+| C8512       | MMBT2222A             | NPN         | 40V     | 600mA   | SOT-23  |
+| C9634       | D882                  | NPN         | 30V     | 3A      | SOT-89-3|
+| C20526      | MMBT3904              | NPN         | 40V     | 200mA   | SOT-23  |
+
+| **PNP**     |                      |             |         |         |         |
+| C8326       | MMBT5401              | PNP         | 150V    | 600mA   | SOT-23  |
+| C8542       | SS8550 Y2             | PNP         | 25V     | 1.5A    | SOT-23  |
+| C8543       | S9012 2T1             | PNP         | 25V     | 500mA   | SOT-23  |
+
+| **N-Channel MOSFET** |             |             |         |         |         |
+| C8545       | 2N7002               | N-Channel   | 60V     | 300mA   | SOT-23  |
+| C20917      | AO3400A              | N-Channel   | 30V     | 5.7A    | SOT-23  |
+
+| **P-Channel MOSFET** |             |             |         |         |         |
+| C10487      | SI2301CDS-T1-GE3     | P-Channel   | 20V     | 3.1A    | SOT-23  |
+| C15127      | AO3401A              | P-Channel   | 30V     | 4A      | SOT-23  |
+
+| **Darlington Array** |             |             |         |         |         |
+| C7512       | ULN2003ADR           | Darlington  | 50V     | 500mA   | SOIC-16 |
 
 
 ### DIODEs
