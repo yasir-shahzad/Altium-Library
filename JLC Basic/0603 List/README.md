@@ -1,3 +1,4 @@
+### Resistors List
 | LCSC Part# | Type      | Value      | Power Rating | Package |
 | ---------- | -------- | ---------- | ------------ | ------- |
 | C21189     | Basic          | 0Ω ±1%     | 100mW        | 0603    |
