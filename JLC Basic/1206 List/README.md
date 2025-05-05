@@ -30,6 +30,7 @@
 | C1848       | Capacitor      | 1uF    | ±10%      | 50V     | X7R        | 1206    |
 | C50254      | Capacitor      | 2.2uF  | ±10%      | 50V     | X7R        | 1206    |
 | C29823      | Capacitor      | 4.7uF  | ±10%      | 50V     | X7R        | 1206    |
+| C13585      | Capacitor      | 10uF   | ±10%      | 50V     | X5R        | 1206    |
 
 
 
