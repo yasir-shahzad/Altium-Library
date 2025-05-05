@@ -19,34 +19,15 @@
 
 
 
-
-
 ### Capacitors
-| Part Number | Component Type | Value     | Tolerance | Dielectric | Package |
-|-------------|----------------|-----------|-----------|------------|---------|
-| C9196       | Capacitor      | 1nF 2kV   | ±10%      | X7R        | 1206    |
-| C1846       | Capacitor      | 10nF 50V  | ±10%      | X7R        | 1206    |
-| C24497      | Capacitor      | 100nF 50V | ±10%      | X7R        | 1206    |
-| C1848       | Capacitor      | 1uF 50V   | ±10%      | X7R        | 1206    |
-| C50254      | Capacitor      | 2.2uF 50V | ±10%      | X7R        | 1206    |
-| C29823      | Capacitor      | 4.7uF 50V | ±10%      | X7R        | 1206    |
-| C13585      | Capacitor      | 10uF 50V  | ±10%      | X5R        | 1206    |
-| C12891      | Capacitor      | 22uF 25V  | ±10%      | X5R        | 1206    |
-| C15008      | Capacitor      | 100uF 6.3V| ±20%      | X5R        | 1206    |
-
-
-
-### Inductors & Ferrite Beads
-| Part Number | Type | Value | Package |
-|-------------|------|--------|---------|
-| C1015   | Ferrite Bead | 100Ω @ 100MHz | 0805 |
-| C1017   | Ferrite Bead | 600Ω @ 100MHz | 0805 |
-| C1046   | Inductor | 10uH ±10% 1.15Ω | 0805 |
-
-
-### LEDs
-| Part Number | Type | Color | Package |
-|-------------|------|-------|---------|
-| C2296   | LED | Yellow | 0805 |
-| C2297   | LED | Emerald | 0805 |
-
+| Part Number | Component Type | Value   | Volts | Tolerance | Dielectric | Package |
+|-------------|----------------|---------|-------|-----------|------------|---------|
+| C9196       | Capacitor      | 1nF     | 2kV   | ±10%      | X7R        | 1206    |
+| C1846       | Capacitor      | 10nF    | 50V   | ±10%      | X7R        | 1206    |
+| C24497      | Capacitor      | 100nF   | 50V   | ±10%      | X7R        | 1206    |
+| C1848       | Capacitor      | 1uF     | 50V   | ±10%      | X7R        | 1206    |
+| C50254      | Capacitor      | 2.2uF   | 50V   | ±10%      | X7R        | 1206    |
+| C29823      | Capacitor      | 4.7uF   | 50V   | ±10%      | X7R        | 1206    |
+| C13585      | Capacitor      | 10uF    | 50V   | ±10%      | X5R        | 1206    |
+| C12891      | Capacitor      | 22uF    | 25V   | ±10%      | X5R        | 1206    |
+| C15008      | Capacitor      | 100uF   | 6.3V  | ±20%      | X5R        | 1206    |
