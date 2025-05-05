@@ -101,3 +101,8 @@
 | C97521     | W25Q128JVSIQ    | NOR Flash           | 128Mbit  | SOIC-8-208mil|
 
 
+### Tantalum Capacitors
+| LCSC Part# | Value     | ESR (at 100kHz) | Tolerance | Case Size           | Type      | Package     |
+|-----------|-----------|------------------|-----------|----------------------|-----------|-------------|
+| C7171     | 10uF 16V  | 3Ω               | ±10%      | CASE-A-3216-18 (mm)  | Tantalum  | 1206 (A)    |
+
