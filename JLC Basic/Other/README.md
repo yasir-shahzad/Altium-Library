@@ -48,18 +48,32 @@
 | C16133    | 100uF 6.3V| 1.7Ω             | ±10%      | CASE-B-3528-21 (mm)  | Tantalum  | 1210 (B)    |
 
 
+
 ### Power Managmennt(PMIC)
-| LCSC Part#  | Value          | Tyep       | Description                          | Output Voltage | Package     |
-|-------------|----------------|------------|--------------------------------------|----------------|-------------|
-|C3113        | CJ431          | Adjustable | Voltage Reference                    | 2.5V~36V       | SOT-23      |
-| C5446       |XC6206P332MR-G  | Fixed      | Low Drop-Out (LDO) Voltage Regulator | 3.3V           | SOT-23-3L   |
-|C6186        | AMS1117-3.3    | Fixed      | LDO Voltage Regulator                | 3.3V           | SOT-223     |
-|C6187        | AMS1117-5.0    | Fixed      | LDO Voltage Regulator                | 5.0V           | SOT-223     |
-| C9864       | TPS5430DDAR    | Adjustable | Step-down DC-DC Converter            | 1.221V~32.04V  | SOIC-8-EP   |
-| C14289      | HT7533-1       | Fixed      | LDO Voltage Regulator                | 3.3V           | SOT-89-3    |
-| C58069      | L78M05ABDT-TR  | Fixed      | LDO Voltage Regulator                | 5.0V           | TO-252-2(DPAK) |
-|C61063       | XL1509-5.0E1   | Step-down  | DC-DC Converter                      | 5.0V           | SOIC-8      |
-| C71136      | 78L05G-AB3-R   | Fixed      | LDO Voltage Regulator                | 5.0V           | SOT-89-3    | 
+| LCSC Part# | Value         | Type     | Description                                                  | Output Voltage   | Package         |
+| ---------- | ------------- | -------- | ------------------------------------------------------------ | ---------------- | --------------- |
+| C3113      | CJ431         | Basic    | Adjustable Voltage Reference                                 | 2.5V~36V         | SOT-23          |
+| C5446      | XC6206P332MR-G | Basic    | 200mA Fixed 3.3V LDO Voltage Regulator                       | 3.3V             | SOT-23-3L       |
+| C6186      | AMS1117-3.3   | Basic    | 1A Fixed 3.3V LDO Voltage Regulator                          | 3.3V             | SOT-223         |
+| C14289     | HT7533-1      | Basic    | 100mA Fixed 3.3V LDO Voltage Regulator                       | 3.3V             | SOT-89-3        |
+| C6187      | AMS1117-5.0   | Basic    | 1A Fixed 5V LDO Voltage Regulator                            | 5V               | SOT-223         |
+| C71136     | 78L05G-AB3-R  | Basic    | 100mA Fixed 5V LDO Voltage Regulator                         | 5V               | SOT-89-3        |
+| C58069     | L78M05ABDT-TR | Basic    | 500mA Fixed 5V LDO Voltage Regulator                         | 5V               | TO-252-2(DPAK)  |
+| C16106     | HT7550-1      | Extended | 150mA Fixed 5V LDO Voltage Regulator                         | 5V               | SOT-89-3        |
+| C75501     | 78L12G-AB3-R  | Extended | 100mA Fixed 12V LDO Voltage Regulator                        | 12V              | SOT-89-3        |
+| C7722      | TPS61040DBVR   | Extended | Boost DC-DC Converter, 28V Output                          | Up to 28V        | SOT-23-5        |
+| C7881      | ICL7660AIBAZA-T| Extended | Charge Pump                                                | -Vin             | SOIC-8          |
+| C9864      | TPS5430DDAR   | Basic    | Step-down DC-DC Converter, Adjustable Output                | 1.221V~32.04V    | SOIC-8-EP       |
+| C9865      | TPS54331DR    | Extended | Step-down DC-DC Converter, Adjustable Output                | 0.8V~25V         | SOIC-8          |
+| C10002     | LM2596SX-5.0/NOPB | Extended | Step-down DC-DC Converter, Fixed 5V Output                 | 5V               | TO-263-5        |
+| C34465     | LM2576SX-5.0/NOPB | Extended | Step-down DC-DC Converter, Fixed 5V Output                 | 5V               | TO-263-5        |
+| C74192     | XL1509-ADJE1  | Extended | Step-down DC-DC Converter, Adjustable Output                | Adjustable       | SOIC-8          |
+| C61063     | XL1509-5.0E1  | Basic    | Step-down DC-DC Converter, Fixed 5V Output                 | 5V               | SOIC-8          |
+| C32078     | MC34063ADR2G  | Extended | Step-up/Down/Inverting DC-DC Converter, Adjustable Output    | 1.25V~40V        | SOIC-8          |
+| C12044     | TP4057-42-SOT26-R | Extended | Battery Management                                         | N/A              | SOT-23-6        |
+| C16581     | TP4056-42-ESOP8 | Extended | Battery Management                                         | N/A              | ESOP-8          |
+| C32574     | TP4054-42-SOT25R | Extended | Battery Management                                         | N/A              | SOT-23-5        |
+| C75510     | LM317AG-TN3-R | Extended | Adjustable Positive Voltage Regulator                        | 1.2V~37V         | TO-252-2(DPAK)  |
 
 
 ### Crystal Oscillators
