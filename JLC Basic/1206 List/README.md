@@ -2,6 +2,7 @@
 | Part Number | Type     | Value     | Power Rating | Package |
 |-------------|----------|-----------|---------------|---------|
 | C17888      | Resistor | 0Ω ±1%    | 250mW         | 1206    |
+| C25334      | Resistor | 100mΩ ±1% | 250mW         | 1206    |
 | C17928      | Resistor | 1Ω ±1%    | 250mW         | 1206    |
 
 
