@@ -40,6 +40,14 @@
 | C85898      | 1N4148W     | Switching Diodes     | 75V     | 150mA   | SOD-123       |
 | C191023     | 1N5819WS    | Schottky Diodes      | 40V     | 1A      | SOD-323       |
 
+
+### Tantalum Capacitors
+| LCSC Part# | Value     | ESR (at 100kHz) | Tolerance | Case Size           | Type      | Package     |
+|-----------|-----------|------------------|-----------|----------------------|-----------|-------------|
+| C7171     | 10uF 16V  | 3Ω               | ±10%      | CASE-A-3216-18 (mm)  | Tantalum  | 1206 (A)    |
+| C16133    | 100uF 6.3V| 1.7Ω             | ±10%      | CASE-B-3528-21 (mm)  | Tantalum  | 1210 (B)    |
+
+
 ### Power Managmennt(PMIC)
 | LCSC Part#  | Value          | Tyep       | Description                          | Output Voltage | Package     |
 |-------------|----------------|------------|--------------------------------------|----------------|-------------|
@@ -99,10 +107,3 @@
 | LCSC Part# | Value           | Type                | Capacity | Package      |
 |------------|-----------------|---------------------|----------|--------------|
 | C97521     | W25Q128JVSIQ    | NOR Flash           | 128Mbit  | SOIC-8-208mil|
-
-
-### Tantalum Capacitors
-| LCSC Part# | Value     | ESR (at 100kHz) | Tolerance | Case Size           | Type      | Package     |
-|-----------|-----------|------------------|-----------|----------------------|-----------|-------------|
-| C7171     | 10uF 16V  | 3Ω               | ±10%      | CASE-A-3216-18 (mm)  | Tantalum  | 1206 (A)    |
-| C16133    | 100uF 6.3V| 1.7Ω             | ±10%      | CASE-B-3528-21 (mm)  | Tantalum  | 1210 (B)    |
