@@ -27,6 +27,7 @@
 | C9196       | Capacitor      | 1nF    | ±10%      | 2kV     | X7R        | 1206    |
 | C1846       | Capacitor      | 10nF   | ±10%      | 50V     | X7R        | 1206    |
 | C24497      | Capacitor      | 100nF  | ±10%      | 50V     | X7R        | 1206    |
+| C1848       | Capacitor      | 1uF    | ±10%      | 50V     | X7R        | 1206    |
 
 
 
