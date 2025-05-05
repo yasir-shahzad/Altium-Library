@@ -29,6 +29,7 @@
 | C24497      | Capacitor      | 100nF  | ±10%      | 50V     | X7R        | 1206    |
 | C1848       | Capacitor      | 1uF    | ±10%      | 50V     | X7R        | 1206    |
 | C50254      | Capacitor      | 2.2uF  | ±10%      | 50V     | X7R        | 1206    |
+| C29823      | Capacitor      | 4.7uF  | ±10%      | 50V     | X7R        | 1206    |
 
 
 
