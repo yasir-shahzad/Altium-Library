@@ -32,6 +32,7 @@
 | C29823      | Capacitor      | 4.7uF  | ±10%      | 50V     | X7R        | 1206    |
 | C13585      | Capacitor      | 10uF   | ±10%      | 50V     | X5R        | 1206    |
 | C12891      | Capacitor      | 22uF   | ±10%      | 25V     | X5R        | 1206    |
+| C15008      | Capacitor      | 100uF  | ±20%      | 6.3V    | X5R        | 1206    |
 
 
 
