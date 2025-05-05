@@ -1,41 +1,40 @@
 ### Resistors
-| Part Number | Type     | Value     | Power Rating | Package |
-|-------------|----------|-----------|---------------|---------|
-| C17888      | Resistor | 0Ω ±1%    | 250mW         | 1206    |
-| C25334      | Resistor | 100mΩ ±1% | 250mW         | 1206    |
-| C17928      | Resistor | 1Ω ±1%    | 250mW         | 1206    |
-| C17903      | Resistor | 10Ω ±1%   | 250mW         | 1206    |
-| C17955      | Resistor | 20Ω ±1%   | 250mW         | 1206    |
-| C17958      | Resistor | 22Ω ±1%   | 250mW         | 1206    |
-| C17901      | Resistor | 100Ω ±1%  | 250mW         | 1206    |
-| C17909      | Resistor | 120Ω ±1%  | 250mW         | 1206    |
-| C17887      | Resistor | 300Ω ±1%  | 250mW         | 1206    |
-| C17985      | Resistor | 750Ω ±1%  | 250mW         | 1206    |
-| C4410       | Resistor | 1kΩ ±1%   | 250mW         | 1206    |
-| C17944      | Resistor | 2kΩ ±1%   | 250mW         | 1206    |
-| C17936      | Resistor | 4.7kΩ ±1% | 250mW         | 1206    |
-| C17902      | Resistor | 10kΩ ±1%  | 250mW         | 1206    |
-| C17900      | Resistor | 100kΩ ±1% | 250mW         | 1206    |
-| C17927      | Resistor | 1MΩ ±1%   | 250mW         | 1206    |
-| C22107      | Resistor | 1.2MΩ ±1% | 250mW         | 1206    |
-
+| LCSC Part# | Type      | Value      | Power Rating | Package |
+| ---------- | --------- | ---------- | ------------ | ------- |
+| C17888     | Basic     | 0Ω ±1%    | 250mW        | 1206    |
+| C25334     | Basic     | 100mΩ ±1% | 250mW        | 1206    |
+| C17928     | Basic     | 1Ω ±1%    | 250mW        | 1206    |
+| C17903     | Basic     | 10Ω ±1%   | 250mW        | 1206    |
+| C17955     | Basic     | 20Ω ±1%   | 250mW        | 1206    |
+| C17958     | Basic     | 22Ω ±1%   | 250mW        | 1206    |
+| C17887     | Basic     | 300Ω ±1%  | 250mW        | 1206    |
+| C17901     | Basic     | 100Ω ±1%  | 250mW        | 1206    |
+| C17909     | Basic     | 120Ω ±1%  | 250mW        | 1206    |
+| C17924     | Extended  | 180Ω ±1%  | 250mW        | 1206    |
+| C4410      | Basic     | 1kΩ ±1%   | 250mW        | 1206    |
+| C17944     | Basic     | 2kΩ ±1%   | 250mW        | 1206    |
+| C17936     | Basic     | 4.7kΩ ±1% | 250mW        | 1206    |
+| C17902     | Basic     | 10kΩ ±1%  | 250mW        | 1206    |
+| C17985     | Extended  | 750Ω ±1%  | 250mW        | 1206    |
+| C17900     | Basic     | 100kΩ ±1% | 250mW        | 1206    |
+| C17927     | Basic     | 1MΩ ±1%   | 250mW        | 1206    |
+| C22107     | Extended  | 1.2MΩ ±1% | 250mW        | 1206    |
 
 
 
 ### Capacitors
-| Part Number | Type      | Value | Volts | Tolerance | Dielectric | Package |
-| ----------- | --------- | ----- | ----- | --------- | ---------- | ------- |
-| C9196       | Capacitor | 1nF   | 2kV   | ±10%      | X7R        | 1206    |
-| C35216      | Capacitor | 1nF   | 500V  | ±10%      | X7R        | 1206    |
-| C1846       | Capacitor | 10nF  | 50V   | ±10%      | X7R        | 1206    |
-| C24497      | Capacitor | 100nF | 50V   | ±10%      | X7R        | 1206    |
-| C1857       | Capacitor | 220nF | 50V   | ±10%      | X7R        | 1206    |
-| C1848       | Capacitor | 1µF   | 50V   | ±10%      | X7R        | 1206    |
-| C50254      | Capacitor | 2.2µF | 50V   | ±10%      | X7R        | 1206    |
-| C29823      | Capacitor | 4.7µF | 50V   | ±10%      | X7R        | 1206    |
-| C13585      | Capacitor | 10µF  | 50V   | ±10%      | X5R        | 1206    |
-| C5672       | Capacitor | 22µF  | 10V   | ±10%      | X5R        | 1206    |
-| C12891      | Capacitor | 22µF  | 25V   | ±10%      | X5R        | 1206    |
-| C96123      | Capacitor | 47µF  | 10V   | ±20%      | X5R        | 1206    |
-| C15008      | Capacitor | 100µF | 6.3V  | ±20%      | X5R        | 1206    |
-
+| LCSC Part# | Type      | Value     | Voltage | Dielectric | Package |
+| ---------- | --------- | --------- | -------- | ---------- | ------- |
+| C9196      | Basic     | 1nF       | 2kV      | X7R        | 1206    |
+| C35216     | Extended  | 1nF       | 500V     | X7R        | 1206    |
+| C1846      | Basic     | 10nF      | 50V      | X7R        | 1206    |
+| C24497     | Basic     | 100nF     | 50V      | X7R        | 1206    |
+| C1857      | Extended  | 220nF     | 50V      | X7R        | 1206    |
+| C1848      | Basic     | 1uF       | 50V      | X7R        | 1206    |
+| C50254     | Basic     | 2.2uF     | 50V      | X7R        | 1206    |
+| C29823     | Basic     | 4.7uF     | 50V      | X7R        | 1206    |
+| C13585     | Basic     | 10uF      | 50V      | X5R        | 1206    |
+| C12891     | Basic     | 22uF      | 25V      | X5R        | 1206    |
+| C5672      | Extended  | 22uF      | 10V      | X5R        | 1206    |
+| C96123     | Basic     | 47uF      | 10V      | X5R        | 1206    |
+| C15008     | Basic     | 100uF     | 6.3V     | X5R        | 1206    |
