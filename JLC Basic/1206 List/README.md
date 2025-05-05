@@ -22,10 +22,9 @@
 
 
 ### Capacitors
-| Part Number | Component Type | Value            | Tolerance | Voltage | Dielectric | Package |
-|-------------|----------------|------------------|-----------|---------|------------|---------|
-| C1846       | Capacitor      | 10nF ±5%         | ±10%      | 50V     | MLCC        | 1206    |
-
+| Part Number | Component Type | Value  | Tolerance | Voltage | Dielectric | Package |
+|-------------|----------------|--------|-----------|---------|------------|---------|
+| C9196       | Capacitor      | 1nF    | ±10%      | 2kV     | X7R        | 1206    |
 
 
 
