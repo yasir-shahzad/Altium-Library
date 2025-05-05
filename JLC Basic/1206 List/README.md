@@ -10,9 +10,11 @@
 | C17901      | Resistor | 100Ω ±1%  | 250mW         | 1206    |
 | C17909      | Resistor | 120Ω ±1%  | 250mW         | 1206    |
 | C17887      | Resistor | 300Ω ±1%  | 250mW         | 1206    |
+| C4410       | Resistor | 1kΩ ±1%   | 250mW         | 1206    |
 | C17944      | Resistor | 2kΩ ±1%   | 250mW         | 1206    |
 | C17936      | Resistor | 4.7kΩ ±1% | 250mW         | 1206    |
 | C17902      | Resistor | 10kΩ ±1%  | 250mW         | 1206    |
+
 
 
 
