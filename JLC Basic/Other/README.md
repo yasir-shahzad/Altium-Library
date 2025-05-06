@@ -3,8 +3,6 @@
 
 | LCSC Part#  | Value      | basic        | Type      | Voltage | Current | Package   |
 |-------------|------------|--------------|-----------|---------|---------|-----------|
-| C2145       | MMBT5551   | basic        | NPN       | 160V    | 600mA   | SOT-23    |
-| C408396     | MMBT5551   | Extended     | NPN       | 160V    | 600mA   | SOT-23    |
 | C8326       | MMBT5401   | Basic        | PNP       | 150V    | 600mA   | SOT-23    |
 | C7512       | ULN2003ADR | Basic        | Darlington| 50V     | 500mA   | SOIC-16   |
 | C2149       | S9015      | Extended     | PNP       | 45V     | 100mA   | SOT-23    |
@@ -58,18 +56,23 @@
 | C20069133    | BCX56-16  | Extended | NPN       | 80V     | 1A      | SOT-89    |
 | C20069139    | MMBTA06   | Extended | NPN       | 80V     | 500mA   | SOT-23    |
 | C20069134    | BC846B    | Extended | NPN       | 65V     | 100mA   | SOT-23    |
-| C20069136    | BC856B    | Extended | PNP       | 65V     | 100mA   | SOT-23    |
-| C20069140    | MMBT4403  | Extended | PNP       | 40V     | 600mA   | SOT-23    |
+| C20069130    | S9014     | Extended | NPN       | 45V     | 100mA   | SOT-23    |
+| C20069128    | D882      | Extended | NPN       | 30V     | 3A      | SOT-89    |
 | C20069141    | MMBTA44   | Extended | NPN       | 400V    | 200mA   | SOT-23    |
 | C20069132    | BC817-16  | Extended | NPN       | 45V     | 500mA   | SOT-23    |
 | C20069135    | BC847B    | Extended | NPN       | 45V     | 100mA   | SOT-23    |
-| C20069137    | BC857C    | Extended | PNP       | 45V     | 100mA   | SOT-23    |
-| C20069130    | S9014     | Extended | NPN       | 45V     | 100mA   | SOT-23    |
-| C20069128    | D882      | Extended | NPN       | 30V     | 3A      | SOT-89    |
-| C20069148    | 2SK3018   | Extended | N-Channel | 30V     | 100mA   | SOT-23    |
-| C20069149    | 2SK3018W  | Extended | N-Channel | 30V     | 100mA   | SOT-323   |
 | C20069125    | S8050     | Extended | NPN       | 25V     | 500mA   | SOT-23    |
 | C20069127    | S9013     | Extended | NPN       | 25V     | 500mA   | SOT-23    |
+| C20069154    | BC817-25  | Extended | NPN       | 45V     | 500mA   | SOT-23      |
+| C20069155    | BC817-40  | Extended | NPN       | 45V     | 500mA   | SOT-23      |
+| C20069156    | BCX56-10  | Extended | NPN       | 80V     | 1A      | SOT-89      |
+| C2145        | MMBT5551   | basic        | NPN       | 160V    | 600mA   | SOT-23    |
+| C408396      | MMBT5551   | Extended     | NPN       | 160V    | 600mA   | SOT-23    |
+| C20069136    | BC856B    | Extended | PNP       | 65V     | 100mA   | SOT-23    |
+| C20069140    | MMBT4403  | Extended | PNP       | 40V     | 600mA   | SOT-23    |
+| C20069137    | BC857C    | Extended | PNP       | 45V     | 100mA   | SOT-23    |
+| C20069148    | 2SK3018   | Extended | N-Channel | 30V     | 100mA   | SOT-23    |
+| C20069149    | 2SK3018W  | Extended | N-Channel | 30V     | 100mA   | SOT-323   |
 | C20069126    | S8550     | Extended | PNP       | 25V     | 500mA   | SOT-23    |
 | C20069129    | S9012     | Extended | PNP       | 25V     | 500mA   | SOT-23    |
 | C20069131    | S9015     | Extended | PNP       | 45V     | 100mA   | SOT-23    |
@@ -78,9 +81,6 @@
 | C20069145    | 2SC2873   | Extended | NPN       | 50V     | 2A      | SOT-89    |
 | C20069150    | HJ8205    | Extended | N-Channel | 20V     | 4.3A    | SOT-23-6L   |
 | C20069151    | FDV301N   | Extended | N-Channel | 25V     | 220mA   | SOT-23      |
-| C20069154    | BC817-25  | Extended | NPN       | 45V     | 500mA   | SOT-23      |
-| C20069155    | BC817-40  | Extended | NPN       | 45V     | 500mA   | SOT-23      |
-| C20069156    | BCX56-10  | Extended | NPN       | 80V     | 1A      | SOT-89      |
 | C22379475    | 2N7002K   | Extended | N-Channel | 60V     | 500mA   | SOT-23      |
 | C22388837    | MMST3904  | Extended | NPN       | 40V     | 200mA   | SOT-323     |
 | C22469448    | HL3400    | Extended | N-Channel | 30V     | 5.6A    | SOT-23      |
