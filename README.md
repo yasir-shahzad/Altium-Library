@@ -21,7 +21,7 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 </p>
 
 
-🟠 **As a freelancer, you can also find me on**:.
+🟠 **As a freelancer, you can also find me on**:
 
 [![Fiverr Logo](https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge)](https://www.fiverr.com/yasirshahzad786) 
 [![Upwork Logo](https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge)](https://www.upwork.com/freelancers/~01bf038fa9b5bfbbc2)
@@ -167,11 +167,6 @@ Every part's center position is where a pick and place machine's head should col
 Library symbols are standardized as much as possible. This standardization ensures you will find pins where you expect them to be, such as VCC in the top left, GND in the bottom left, user function pins on the right (controllable inputs/outputs). Standard protocols like SPI have the pins in the same order in every part where other library standards don't have a higher priority. All components within a database category have similar pin layouts/groupings where possible. This preciseness makes it extremely easy to read and follow schematics created with the library.  
   
 All passive components, such as resistors and capacitors, all have the same size symbol lead span, keeping your schematics tidy.
-
-# Sponsors
-[![Cofactr sponsors Altium Library](https://github.com/issus/altium-library/blob/master/images/Cofactr_logo_clover_300px.png?raw=true)](https://www.cofactr.com/)
-
-$100/mo Sponsor: [Cofactr’s](https://www.cofactr.com/) **procurement** tools, **inventory** management, and automated **kitting** get you to manufacturing faster and easier than ever.
 
 # Contributing
 Want to contribute? Great!
