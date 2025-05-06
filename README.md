@@ -21,7 +21,7 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 </p>
 
 
-🟠 **As a freelancer, you can also find me on**:
+🟠 **As a freelancer, you can also find me on**:.
 
 [![Fiverr Logo](https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge)](https://www.fiverr.com/yasirshahzad786) 
 [![Upwork Logo](https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge)](https://www.upwork.com/freelancers/~01bf038fa9b5bfbbc2)
