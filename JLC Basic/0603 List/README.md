@@ -103,6 +103,7 @@
 | C46219       | 👍Extended  | 3pF       | 50V     | C0G        | 0603    |
 | C37474       | 👍Extended  | 6pF       | 50V     | C0G        | 0603    |
 | C1679        | 👍Extended  | 6.8pF     | 50V     | C0G        | 0603    |
+| C1685        | 👍Extended  | 8.2pF     | 50V     | C0G        | 0603    |
 | C1634        | Basic     | 10pF      | 50V     | C0G        | 0603    |
 | C38523       | Basic     | 12pF      | 50V     | C0G        | 0603    |
 | C1644        | Basic     | 15pF      | 50V     | C0G        | 0603    |
