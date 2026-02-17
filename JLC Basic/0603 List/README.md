@@ -4,7 +4,7 @@
 
 | Description                 | MPN        | LCSC Part No. | Type  | Value  | Power Rating | Package |
 |-----------------------------|------------|---------------|-------|--------|--------------|---------|
-| C21189                      | Basic      | C21189        | Chip  | 0Ω ±1% | 100 mW       | 0603    |
+| 20mA 2V 450mcd 589nm 591nm Water Clear Yellow 0603 LED Indication - Discrete ROHS | 150060YS86000     | C21189        | Chip  | 0Ω ±1% | 100 mW       | 0603    |
 
 
 
