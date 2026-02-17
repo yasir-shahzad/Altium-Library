@@ -2,9 +2,10 @@
 
 ### Resistors List
 
-| Description | MPN | LCSC Part No. | Type | Value | Power Rating | Package |
-| ----------- | --- | ------------- | ------------ | ------------ | ------- |
-| C21189      | Basic | 0Ω ±1%      | 100mW        | 0603         |  -------|
+| Description | MPN   | LCSC Part No. | Type  | Value  | Power Rating | Package |
+|-------------|-------|---------------|-------|--------|--------------|---------|
+| C21189      | Basic | C21189        | Chip  | 0Ω ±1% | 100 mW       | 0603    |
+
 
 
 
