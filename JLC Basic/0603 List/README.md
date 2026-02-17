@@ -1,7 +1,8 @@
 ### Resistors List
 
-| Description | MPN#          | LCSC Part# | Type           | Value      | Power Rating | Package |
+### Resistors List
 
+| Description | MPN | LCSC Part No. | Type | Value | Power Rating | Package |
 
 
 
