@@ -1,4 +1,12 @@
 ### Resistors List
+### Resistors List
+
+| Description                 | MPN        | LCSC Part No. | Type  | Value  | Power Rating | Package |
+|-----------------------------|------------|---------------|-------|--------|--------------|---------|
+| 20mA 2V 450mcd 589nm 591nm Water Clear Yellow 0603 LED Indication - Discrete ROHS | 150060YS86000     | C21189        | 👍Extended  | 0Ω ±1% | 62.5mW       | 0402    |
+
+
+
 | LCSC Part# | Type      | Value     | Power Rating | Package |
 | ---------- | --------- | --------- | ------------ | ------- |
 | C17168     | Basic     | 0Ω ±1%   | 62.5mW       | 0402    |
