@@ -1,14 +1,4 @@
 ### Resistors List
-### Resistors List
-
-| Description                 | MPN        | LCSC Part No. | Type  | Value  | Power Rating | Package |
-|-----------------------------|------------|---------------|-------|--------|--------------|---------|
-| 20mA 2V 450mcd 589nm 591nm Water Clear Yellow 0603 LED Indication - Discrete ROHS | 150060YS86000     | C21189        | 👍Extended  | 0Ω ±1% | 62.5mW       | 0402    |
-
-
-
-| Description | MPN | LCSC Part No. | Type | Value | Power Rating | Package |
-|-------------|-----|---------------|------|--------|--------------|---------|
 | Description | MPN | LCSC Part No. | Type | Value | Power Rating | Package |
 |-------------|-----|---------------|------|--------|--------------|---------|
 | -55℃~+155℃ 0Ω 50V 62.5mW Thick Film Resistor ±1% ±800ppm/℃ 0402 Chip Resistor - Surface Mount ROHS | 0402WGF0000TCE | C17168 | Basic | 0Ω ±1% | 62.5mW | 0402 |
