@@ -7,6 +7,20 @@
 
 
 
+| Description | MPN | LCSC Part No. | Type | Value | Power Rating | Package |
+|-------------|-----|---------------|------|--------|--------------|---------|
+| -55℃~+155℃ 0Ω 50V 62.5mW Thick Film Resistor ±1% ±800ppm/℃ 0402 Chip Resistor - Surface Mount ROHS | 0402WGF0000TCE | C17168 | Basic | 0Ω ±1% | 62.5mW | 0402 |
+| -55℃~+155℃ 1Ω 50V 62.5mW Thick Film Resistor ±1% ±200ppm/℃ 0402 Chip Resistor - Surface Mount ROHS | 0402WGF100KTCE | C25086 | 👍Extended | 1Ω ±1% | 62.5mW | 0402 |
+| -55℃~+155℃ 10Ω 50V 62.5mW Thick Film Resistor ±1% ±200ppm/℃ 0402 Chip Resistor - Surface Mount ROHS | 0402WGF100JTCE | C25077 | Basic | 10Ω ±1% | 62.5mW | 0402 |
+| -55℃~+155℃ 22Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS | 0402WGF220JTCE | C25092 | Basic | 22Ω ±1% | 62.5mW | 0402 |
+| -55℃~+155℃ 33Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS | 0402WGF330JTCE | C25105 | Basic | 33Ω ±1% | 62.5mW | 0402 |
+| -55℃~+155℃ 47Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS | 0402WGF470JTCE | C25118 | 👍Extended | 47Ω ±1% | 62.5mW | 0402 |
+| -55℃~+155℃ 49.9Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS | 0402WGF499JTCE | C25120 | Basic | 49.9Ω ±1% | 62.5mW | 0402 |
+| -55℃~+155℃ 50V 51Ω 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS | 0402WGF510JTCE | C25125 | 👍Extended | 51Ω ±1% | 62.5mW | 0402 |
+| -55℃~+155℃ 50V 62.5mW 75Ω Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS | 0402WGF750JTCE | C25133 | 👍Extended | 75Ω ±1% | 62.5mW | 0402 |
+| -55℃~+155℃ 100Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS | 0402WGF1000TCE | C25076 | Basic | 100Ω ±1% | 62.5mW | 0402 |
+
+
 | LCSC Part# | Type      | Value     | Power Rating | Package |
 | ---------- | --------- | --------- | ------------ | ------- |
 | C17168     | Basic     | 0Ω ±1%   | 62.5mW       | 0402    |
