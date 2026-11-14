@@ -143,6 +143,7 @@
 | C8678       | SS34        | Schottky             | 40V     | 3A      | DO-214AC      |
 | C14996      | SS210       | Schottky             | 100V    | 5A      | DO-214AC      |
 | C95872      | M7          | General Purpose      | 100V    | 1A      | DO-214AC      |
+| C64898      | SM4007PL    | General Purpose      | 1kV     | 1A      | SOD-123FL     |
 | C412437     | US1M        | Fast Recovery        | 100V    | 1A      | DO-214AC      |
 | C2128       | 1N4148WS    | Switching Diodes     | 100V    | 150mA   | SOD-323       |
 | C2488       | MB10S-50MIL | Bridge Rectifier     | 1kV     | 1A      | DO-214AC      |
@@ -153,8 +154,16 @@
 | C14996      | SS210       | Schottky             | 100V    | 2A      | SMA(DO-214AC) |
 | C245071     | SS54        | Schottky             | 40V     | 5A      | SMA(DO-214AC) |
 | C85898      | 1N4148W     | Switching Diodes     | 75V     | 150mA   | SOD-123       |
+| C81598      | 1N4148W     | Switching Diodes     | 75V     | 150mA   | SOD-123       |
 | C191023     | 1N5819WS    | Schottky Diodes      | 40V     | 1A      | SOD-323       |
 
+
+### TVS / ESD Protection
+| LCSC Part#  | Value          | Type           | Standoff Voltage | Peak Power | Package       |
+|-------------|----------------|----------------|------------------|------------|---------------|
+| C7420377    | SMBJ6.5CA      | Bidirectional  | 6.5V             | 600W       | DO-214AA(SMB) |
+| C78395      | P6SMB6.8CA/TR13| Bidirectional  | 5.8V             | 600W       | SMB(DO-214AA) |
+| C32677      | PSM712-LF-T7   | Unidirectional | 12V              | 600W@8/20us| SOT-23        |
 
 ### Tantalum Capacitors
 | LCSC Part# | Value     | ESR (at 100kHz) | Tolerance | Case Size           | Type      | Package     |
@@ -206,6 +215,7 @@
 | LCSC Part# | Part Number         | Type   | Size      | Lifespan  | Switch Style   | Voltage   | Package |
 |------------|---------------------|--------|-----------|-----------|----------------|-----------|---------|
 | C318884    | TS-1187A-B-A-B      | SPST   | 5.1mm     | 100,000   | Round Button   | 12V       | SMD     |
+| C720477    | TS-1088-AR02016     | SPST   | 4x3mm     | 100,000   | Round Button   | 12V       | SMD     |
 
 
 ### Amplifiers/Comparators
@@ -217,6 +227,12 @@
 | C7950      | LM358DR2G| Operational Amplifier | 45nA    | 1MHz       | SOIC-8   |
 | C7955      | LM393DR2G| Comparators           | 250nA   | 5mV        | SOIC-8   |
 | C71035     | LM324DT  | Operational Amplifier | 20nA    | 1.3MHz     | SOIC-14  |
+
+### Optocouplers
+| LCSC Part#  | Value           | Type                     | Isolation | Package        |
+|-------------|-----------------|--------------------------|-----------|----------------|
+| C109227     | LTV-817S-TA1-C  | Phototransistor, DC in   | 5kV       | SMD-4P         |
+| C115450     | LTV-217-B-G     | Phototransistor, DC in   | 3.75kV    | SOP-4-175mil   |
 
 ### Interfaces
 | LCSC Part# | Value            | Type                    | Speed    | Package   |

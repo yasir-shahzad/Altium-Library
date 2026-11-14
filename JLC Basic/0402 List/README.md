@@ -163,6 +163,7 @@
 | C1532        | Basic     | 22nF      | 50V     | X7R        | 0402    |
 | C1585        | 👍Extended  | 33nF      | 50V     | Y5V        | 0402    |
 | C307331      | Basic     | 100nF     | 50V     | X7R        | 0402    |
+| C1525        | Basic     | 100nF     | 16V     | X7R        | 0402    |
 | C16772       | Basic     | 220nF     | 16V     | X7R        | 0402    |
 | C47339       | 👍Extended  | 470nF     | 10V     | X5R        | 0402    |
 | C52923       | Basic     | 1uF       | 25V     | X5R        | 0402    |
