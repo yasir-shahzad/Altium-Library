@@ -188,5 +188,3 @@
 | C2290       | LED  | White          | 0603    |
 | C2286       | LED  | Red            | 0603    |
 
-
-https://jlcpcb.com/parts/basic_parts
